@@ -1,0 +1,58 @@
+body{
+    padding: 30px;
+    background: url('dasha.jpg') 0 0/105% no-repeat;
+}
+
+header{
+    border: 5px solid rgb(83, 73, 88);
+    border-radius: 15px;  
+    margin-left: auto;
+    margin-right: auto;
+    width: 685px;
+    background-color: rgb(226, 17, 139);
+    color:white;
+}
+
+nav{
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    margin-left: auto;
+    margin-right: 50%;
+    width:300px;
+    height:120px;
+    background-color:coral
+}
+
+h2{
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background-color: rgba(226, 17, 139, 0.5);
+    color:white;
+    text-align: center; 
+}
+
+article {
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    background-color: rgba(14, 4, 14, 0.5);
+}
+
+p{
+    color:rgb(186, 179, 231);
+    text-shadow: 1px 1px 2px black;
+    font-size:1.5rem;
+}
+
+footer{
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    width:600px;
+    background-color: rgb(114, 17, 114, 0.5);
+}
+
+li{
+    list-style-type: "\1F44D"; // thumbs up sign;
+}
